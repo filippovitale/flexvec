@@ -90,3 +90,8 @@ copyright notice:
 Copyright © 2012 Michał Marczyk
 
 Distributed under the Eclipse Public License, the same as Clojure.
+
+## TODO
+
+* read: http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf
+* use perforate to benchmark the actual situation
